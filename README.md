@@ -25,3 +25,5 @@ localhost:5672:
 
 Format ini mirip dengan format URL standar dimana struktur umumnya adalah username:password@host:port. Dalam implementasi RabbitMQ (sistem message broker yang populer menggunakan AMQP), "guest:guest" adalah kredensial default yang disediakan untuk pengujian dan pengembangan lokal.
 
+![slow-connection](/README_image/Screenshot%202025-05-16%20170130.png)
+![slow-connection](/README_image/Screenshot%202025-05-16%20171001.png)
